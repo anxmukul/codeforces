@@ -1,4 +1,4 @@
-puts "Enter the number of testcases\n"
+#puts "Enter the number of testcases\n"
 t = gets.to_i
 i = 0
 a = [t]
