@@ -13,6 +13,7 @@ for j in 0...l do
     end
 end
 f = s.length - 1
+#puts f
 if f%2 == 1
     puts 'IGNORE HIM!'
 else

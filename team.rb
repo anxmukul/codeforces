@@ -1,4 +1,3 @@
-#puts "Enter the number of problems\n"
 t = gets.to_i
 r = [t]
 for i in 0...t do

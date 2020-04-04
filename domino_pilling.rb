@@ -1,4 +1,4 @@
-#puts "Enter the dimensions of rectangle\n"
+puts "Enter the dimensions of rectangle\n"
 m,n = gets.split.map(&:to_i)
 if m == n 
     a = (m*n)/2
